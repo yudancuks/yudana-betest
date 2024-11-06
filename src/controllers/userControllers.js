@@ -1,3 +1,5 @@
+//controllers/userController.js
+
 const User = require('../models/user');
 const { getCache, setCache } = require('../utils/redisCache');
 

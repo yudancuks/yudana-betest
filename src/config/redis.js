@@ -1,4 +1,4 @@
-// redisClient.js
+// /config/redisClient.js
 const redis = require('redis');
 
 // Create and configure the Redis client
