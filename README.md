@@ -85,7 +85,6 @@ Environment Variables
 
 This project uses a .env file to manage configuration variables. Below is an example of the required environment variables:
 
-bash
 
 # MongoDB
 MONGO_URL=mongodb://mongodb:27017/mydb
