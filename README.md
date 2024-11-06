@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Express.js CRUD API with MongoDB, Redis, Kafka, and Docker
 
 This repository contains a Node.js application built with Express.js that performs CRUD operations using MongoDB. It also integrates Redis for caching and Kafka for message-based communication between services. The project is fully containerized using Docker and Docker Compose.
