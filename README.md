@@ -9,11 +9,8 @@ Table of Contents
     Project Structure
     Environment Variables
     Running the Project
-    Kafka Integration
     API Endpoints
     Technologies Used
-    Contributing
-    License
 
 Getting Started
 Prerequisites
@@ -103,7 +100,7 @@ Make sure you create the .env file before running the application.
 Running the Project
 
 
-User Endpoints
+API Endpoints
 
     Get Token : GET /api/auth/generate
 
